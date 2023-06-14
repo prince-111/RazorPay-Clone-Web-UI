@@ -1,5 +1,9 @@
 # RazorPay-Clone-Web-UI
 RazorPay web UI using Tailwind CSS, HTML, and Vite
+<br>
+<hr>
+npm run start
+<hr>
 <img width="943" alt="image" src="https://github.com/prince-111/RazorPay-Clone-Web-UI/assets/88477312/b0c897ae-95e4-443f-9e98-413ccea94605">
 <img width="939" alt="image" src="https://github.com/prince-111/RazorPay-Clone-Web-UI/assets/88477312/a727be82-32ef-421b-ad7e-1839b114fd06">
 <img width="943" alt="image" src="https://github.com/prince-111/RazorPay-Clone-Web-UI/assets/88477312/fef07551-c216-4b5c-a9e3-3380d606f40b">
